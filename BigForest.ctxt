@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BigForest()
+comment1.params=
+comment1.target=void\ show()
+comment2.params=
+comment2.target=void\ growOneYear()
+comment3.params=t
+comment3.target=void\ addTree(Tree)
+comment4.params=n
+comment4.target=void\ growManyYears(int)
+comment5.params=
+comment5.target=void\ age()
+comment6.params=
+comment6.target=double\ averageHeight()
+numComments=7
